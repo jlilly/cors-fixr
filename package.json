@@ -1,0 +1,15 @@
+{
+  "name": "cors-fixr",
+  "version": "1.0.0",
+  "description": "CORS Fixr, a proxy that rewrites CORS headers. Useful for development purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CORS",
+    "proxy"
+  ],
+  "author": "Joe Lilly",
+  "license": "ISC"
+}
